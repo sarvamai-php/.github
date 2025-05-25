@@ -41,14 +41,6 @@ Sarvam AI provides flexible and easy-to-use APIs with support for multiple progr
 
 ---
 
-## ✅ Conclusion
-
-Sarvam AI is a transformative step forward in India’s AI journey. By focusing on multilingual intelligence and developer-friendly APIs, it enables the creation of inclusive, accessible, and intelligent applications for a diverse user base.
-
-> **Built in India, for India – powering the next billion users.**  
-> 🇮🇳 **Sarvam AI** is shaping the future of AI with Indic excellence.
-
----
 ### cURL
 ```bash
 curl -X POST https://api.sarvam.ai/v1/chat/completions \
